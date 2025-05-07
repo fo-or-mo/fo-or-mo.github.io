@@ -5,3 +5,4 @@ _config.yml修改：
 
 #访问github
 curl -o C:\Windows\System32\drivers\etc\hosts https://raw.hellogithub.com/hosts
+https://blog.csdn.net/qq_34665176/article/details/147049196
