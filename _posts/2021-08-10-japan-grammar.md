@@ -1,8 +1,8 @@
 ---
-title: How to Generate TOC
-author: Tao He
+title: 日语语法
+author: Zhang
 date: 2021-08-10
-category: Jekyll
+category: japan
 layout: post
 ---
 
