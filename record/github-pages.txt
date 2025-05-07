@@ -1,0 +1,2 @@
+_config.yml修改：
+1、baseurl: '/'
