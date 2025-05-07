@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 永久笔记本
 permalink: /
 ---
 
