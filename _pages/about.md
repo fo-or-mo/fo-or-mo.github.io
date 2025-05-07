@@ -1,9 +1,9 @@
 ---
-title: About
-author: Tao He
+title: Code
+author: Zhang
 date: 2022-02-04
-category: Jekyll
+category: code
 layout: post
 ---
 
-This is an about page.
+- [Python](https://docs.github.com)
