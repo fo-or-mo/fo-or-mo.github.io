@@ -1,3 +1,4 @@
 _config.yml修改：
 1、baseurl: '/'
 2、网站更新有延迟，需要等待一段时间
+3、permalink:                /:categories/:title:output_ext
