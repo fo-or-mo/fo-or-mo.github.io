@@ -1,8 +1,8 @@
 ---
-title: Page with cover image
-author: Tao He
+title: 日语单词
+author: Zhang
 date: 2022-05-24
-category: Jekyll
+category: japan
 layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
