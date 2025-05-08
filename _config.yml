@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'allinone.weiqi4.com'
+url:              'https://allinone.weiqi4.com'
 baseurl:          '/'
 rss:              RSS
 
