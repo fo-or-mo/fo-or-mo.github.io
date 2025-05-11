@@ -6,7 +6,6 @@ category: english
 layout: post
 ---
 
-------
 ‌It's+adj.+for sb.+to do sth.‌ 对某人来说做某事怎么样。<br>
 例如：It is dangerous for children to play in the street. 孩子们在街上玩是很危险的<br><br>
 ‌
@@ -35,8 +34,9 @@ layout: post
 例如：She is afraid to ask me questions. 她害怕问我问题<br><br>
 ‌
 ‌be busy doing/with sth‌ 忙于做某事。<br>
-例如：I am busy with my work. 我忙于工作<br><br>‌
-------
+例如：I am busy with my work. 我忙于工作<br><br>
+‌___
+
 1. 主语+谓语+宾语句型：这是最基本的英语句型，用于表达简单的陈述，例如：“She reads a book.”（她读一本书。）
 
 2. 主语+系动词+表语句型：用于描述主语的状态或特征，例如：“The flower is beautiful.”（这朵花很漂亮。）
@@ -57,7 +57,8 @@ layout: post
 
 10. 复合句句型：包含一个主句和一个或多个从句，例如：“If it rains, we will cancel the trip.”（如果下雨，我们会取消旅行。）
 <br>
-------
+___
+
 **1\. 主语+谓语**
 
 这是最简单的句型，表示一个动作或状态。
