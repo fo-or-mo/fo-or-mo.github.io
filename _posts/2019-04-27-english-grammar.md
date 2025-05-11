@@ -5,16 +5,35 @@ date: 2019-04-27
 category: english
 layout: post
 ---
-‌It's+adj.+for sb.+to do sth.‌ 对某人来说做某事怎么样。例如：It is dangerous for children to play in the street. 孩子们在街上玩是很危险的‌
-‌It's time for sth./It's time (for sb.) to do sth.‌ 是干某事的时间了。例如：It's time for the meeting. 该开会了‌
-‌It takes sb. some time to do sth.‌ 做某事花某人一些时间。例如：It took me two hours to do my homework. 写作业花了我两小时的时间‌
-‌sb. spend some time/money on sth./(in)doing sth.‌ 某人花时间(金钱)在某事上/花时间(金钱)干某事。例如：He spends half an hour reading English every morning. 他每天早上花半小时读英语‌
-‌too+形容词/副词+to do...‌ 太……以致不能…… 例如：I was too excited to say a word. 我激动得一个字也说不出来‌
-‌so that...‌ 以便/以致…… 例如：They studied hard so that they could pass the exam. 为了能通过考试,他们学习很努力‌
-‌allow sb to do sth‌ 允许某人去做某事。例如：My father allowed me to go out for a walk after finishing my homework. 我爸爸允许我完成作业后出去散步‌
-‌ask sb (not) to do sth‌ 叫某人做事某事(叫某人不要去做某事)。例如：My father asked me to study hard. 我爸爸让我好好学习‌
-‌be afraid to do sth‌ 害怕做某事。例如：She is afraid to ask me questions. 她害怕问我问题‌
-‌be busy doing/with sth‌ 忙于做某事。例如：I am busy with my work. 我忙于工作‌
+‌It's+adj.+for sb.+to do sth.‌ 对某人来说做某事怎么样。
+例如：It is dangerous for children to play in the street. 孩子们在街上玩是很危险的
+‌
+‌It's time for sth./It's time (for sb.) to do sth.‌ 是干某事的时间了。
+例如：It's time for the meeting. 该开会了
+‌
+‌It takes sb. some time to do sth.‌ 做某事花某人一些时间。
+例如：It took me two hours to do my homework. 写作业花了我两小时的时间
+‌
+‌sb. spend some time/money on sth./(in)doing sth.‌ 某人花时间(金钱)在某事上/花时间(金钱)干某事。
+例如：He spends half an hour reading English every morning. 他每天早上花半小时读英语
+‌
+‌too+形容词/副词+to do...‌ 太……以致不能…… 
+例如：I was too excited to say a word. 我激动得一个字也说不出来
+‌
+‌so that...‌ 以便/以致…… 
+例如：They studied hard so that they could pass the exam. 为了能通过考试,他们学习很努力
+‌
+‌allow sb to do sth‌ 允许某人去做某事。
+例如：My father allowed me to go out for a walk after finishing my homework. 我爸爸允许我完成作业后出去散步
+‌
+‌ask sb (not) to do sth‌ 叫某人做事某事(叫某人不要去做某事)。
+例如：My father asked me to study hard. 我爸爸让我好好学习
+‌
+‌be afraid to do sth‌ 害怕做某事。
+例如：She is afraid to ask me questions. 她害怕问我问题
+‌
+‌be busy doing/with sth‌ 忙于做某事。
+例如：I am busy with my work. 我忙于工作‌
 
 1. 主语+谓语+宾语句型：这是最基本的英语句型，用于表达简单的陈述，例如：“She reads a book.”（她读一本书。）
 
