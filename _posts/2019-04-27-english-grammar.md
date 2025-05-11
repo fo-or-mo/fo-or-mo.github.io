@@ -6,6 +6,7 @@ category: english
 layout: post
 ---
 
+------
 ‌It's+adj.+for sb.+to do sth.‌ 对某人来说做某事怎么样。<br>
 例如：It is dangerous for children to play in the street. 孩子们在街上玩是很危险的<br><br>
 ‌
@@ -35,7 +36,7 @@ layout: post
 ‌
 ‌be busy doing/with sth‌ 忙于做某事。<br>
 例如：I am busy with my work. 我忙于工作<br><br>‌
-...
+------
 1. 主语+谓语+宾语句型：这是最基本的英语句型，用于表达简单的陈述，例如：“She reads a book.”（她读一本书。）
 
 2. 主语+系动词+表语句型：用于描述主语的状态或特征，例如：“The flower is beautiful.”（这朵花很漂亮。）
@@ -56,8 +57,8 @@ layout: post
 
 10. 复合句句型：包含一个主句和一个或多个从句，例如：“If it rains, we will cancel the trip.”（如果下雨，我们会取消旅行。）
 <br>
-...
-1\. 主语+谓语
+------
+**1\. 主语+谓语**
 
 这是最简单的句型，表示一个动作或状态。
 
@@ -65,7 +66,7 @@ The sun shines. (太阳照耀着。)
 
 She sleeps. (她睡着了。)
 
-2\. 主语+谓语+宾语
+**2\. 主语+谓语+宾语**
 
 这个句型表示主语执行的动作作用于宾语。
 
@@ -73,7 +74,7 @@ I love you. (我爱你。)
 
 He reads books. (他读书。)
 
-3\. 主语+谓语+宾语+宾语
+**3\. 主语+谓语+宾语+宾语**
 
 这个句型表示主语执行的动作作用于两个或多个宾语。
 
@@ -81,7 +82,7 @@ She gave him a gift. (她送他一份礼物。)
 
 He taught us English. (他教我们英语。)
 
-4\. 主语+谓语+宾语+补语
+**4\. 主语+谓语+宾语+补语**
 
 这个句型表示主语执行的动作对宾语进行补充说明。
 
@@ -89,7 +90,7 @@ We made him happy. (我们使他快乐。)
 
 They painted the house red. (他们把房子漆成了红色。)
 
-5\. 主语+谓语+状语
+**5\. 主语+谓语+状语**
 
 这个句型表示动作发生的时间、地点、方式等情况。
 
@@ -97,9 +98,9 @@ He is studying in the library. (他在图书馆学习。)
 
 She sings beautifully. (她唱歌唱得很美。)
 
-6\. 主语+系动词+表语
+**6\. 主语+系动词+表语**
 
-这个句型表示主语的特征或状态。
+>>这个句型表示主语的特征或状态。
 
 She is a teacher. (她是一名老师。)
 
