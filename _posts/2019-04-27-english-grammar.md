@@ -5,6 +5,7 @@ date: 2019-04-27
 category: english
 layout: post
 ---
+
 ‌It's+adj.+for sb.+to do sth.‌ 对某人来说做某事怎么样。<br>
 例如：It is dangerous for children to play in the street. 孩子们在街上玩是很危险的<br><br>
 ‌
@@ -34,7 +35,7 @@ layout: post
 ‌
 ‌be busy doing/with sth‌ 忙于做某事。<br>
 例如：I am busy with my work. 我忙于工作<br><br>‌
-
+...
 1. 主语+谓语+宾语句型：这是最基本的英语句型，用于表达简单的陈述，例如：“She reads a book.”（她读一本书。）
 
 2. 主语+系动词+表语句型：用于描述主语的状态或特征，例如：“The flower is beautiful.”（这朵花很漂亮。）
@@ -55,8 +56,8 @@ layout: post
 
 10. 复合句句型：包含一个主句和一个或多个从句，例如：“If it rains, we will cancel the trip.”（如果下雨，我们会取消旅行。）
 <br>
-
-1. 主语+谓语
+...
+1\. 主语+谓语
 
 这是最简单的句型，表示一个动作或状态。
 
@@ -64,7 +65,7 @@ The sun shines. (太阳照耀着。)
 
 She sleeps. (她睡着了。)
 
-2. 主语+谓语+宾语
+2\. 主语+谓语+宾语
 
 这个句型表示主语执行的动作作用于宾语。
 
@@ -72,7 +73,7 @@ I love you. (我爱你。)
 
 He reads books. (他读书。)
 
-3. 主语+谓语+宾语+宾语
+3\. 主语+谓语+宾语+宾语
 
 这个句型表示主语执行的动作作用于两个或多个宾语。
 
@@ -80,7 +81,7 @@ She gave him a gift. (她送他一份礼物。)
 
 He taught us English. (他教我们英语。)
 
-4. 主语+谓语+宾语+补语
+4\. 主语+谓语+宾语+补语
 
 这个句型表示主语执行的动作对宾语进行补充说明。
 
@@ -88,7 +89,7 @@ We made him happy. (我们使他快乐。)
 
 They painted the house red. (他们把房子漆成了红色。)
 
-5. 主语+谓语+状语
+5\. 主语+谓语+状语
 
 这个句型表示动作发生的时间、地点、方式等情况。
 
@@ -96,7 +97,7 @@ He is studying in the library. (他在图书馆学习。)
 
 She sings beautifully. (她唱歌唱得很美。)
 
-6. 主语+系动词+表语
+6\. 主语+系动词+表语
 
 这个句型表示主语的特征或状态。
 
@@ -104,7 +105,7 @@ She is a teacher. (她是一名老师。)
 
 He looks tired. (他看起来很累。)
 
-7. 主语+谓语+介词短语
+7\. 主语+谓语+介词短语
 
 这个句型表示动作发生的方向、目标、工具等情况。
 
@@ -112,7 +113,7 @@ He walked into the room. (他走进房间。)
 
 She wrote with a pen. (她用钢笔写字。)
 
-8. 主语+谓语+不定式
+8\. 主语+谓语+不定式
 
 这个句型表示动作的目的或意图。
 
@@ -120,7 +121,7 @@ He wants to go home. (他想回家。)
 
 She decided to study abroad. (她决定出国留学。)
 
-9. 主语+谓语+动名词
+9\. 主语+谓语+动名词
 
 这个句型表示动作的持续或过程。
 
@@ -128,7 +129,7 @@ She enjoys singing. (她喜欢唱歌。)
 
 He is good at playing basketball. (他擅长打篮球。)
 
-10. 主语+谓语+分词
+10\. 主语+谓语+分词
 
 这个句型表示动作的伴随情况或结果。
 
@@ -136,7 +137,7 @@ Walking in the park, she felt relaxed. (在公园散步，她感到很放松。)
 
 He left the door open. (他离开时门是开着的。)
 
-11. 主语+谓语+从句
+11\. 主语+谓语+从句
 
 这个句型表示主语或谓语的补充说明。
 
@@ -144,7 +145,7 @@ I know that he is coming. (我知道他来了。)
 
 He said that he was tired. (他说他累了。)
 
-12. 主语+谓语+宾语+从句
+12\. 主语+谓语+宾语+从句
 
 这个句型表示主语执行的动作作用于宾语，并对宾语进行补充说明。
 
@@ -152,7 +153,7 @@ He told me that he was sorry. (他告诉我他很抱歉。)
 
 She asked me what I was doing. (她问我正在做什么。)
 
-13. 主语+谓语+状语+从句
+13\. 主语+谓语+状语+从句
 
 这个句型表示动作发生的时间、地点、方式等情况，并对这些情况进行补充说明。
 
@@ -160,7 +161,7 @@ When he arrived, the meeting had already started. (当他到达时，会议已�
 
 Because he was sick, he didn't go to school. (因为他病了，所以他没有去上学。)
 
-14. 主语+系动词+表语+从句
+14\. 主语+系动词+表语+从句
 
 这个句型表示主语的特征或状态，并对这些特征或状态进行补充说明。
 
@@ -168,7 +169,7 @@ The reason why he is late is that he missed the bus. (他迟到的原因是他�
 
 This is what I have been looking for. (这就是我一直寻找的东西。)
 
-15. There be 句型
+15\. There be 句型
 
 这个句型表示某地或某时存在某物或某人。
 
@@ -176,7 +177,7 @@ There is a book on the table. (桌子上有一本书。)
 
 There are many people in the park. (公园里有许多人。)
 
-16. It 句型
+16\. It 句型
 
 这个句型用 it 代替真正的主语，使句子更加简洁。
 
