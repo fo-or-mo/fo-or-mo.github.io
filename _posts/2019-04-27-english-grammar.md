@@ -54,7 +54,7 @@ layout: post
 9. 祈使句句型：用于发出命令、请求或建议，例如：“Please close the door.”（请关上门。）
 
 10. 复合句句型：包含一个主句和一个或多个从句，例如：“If it rains, we will cancel the trip.”（如果下雨，我们会取消旅行。）
-
+<br>
 1. 主语+谓语
 
 这是最简单的句型，表示一个动作或状态。
