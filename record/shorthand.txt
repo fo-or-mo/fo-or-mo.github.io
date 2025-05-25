@@ -1,5 +1,7 @@
 2025.0526
 deepseek:jekyll-gitbook怎样添加post页面
+页面的名称格式为_posts/2025-05-25-xxx.md
+并且日期不能是今天，必须是今天之前。
 2025.05.07
 1、https://github.com/sighingnow/jekyll-gitbook
 https://jekyllrb.com/
