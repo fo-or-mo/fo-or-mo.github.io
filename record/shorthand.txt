@@ -1,3 +1,5 @@
+2025.0526
+deepseek:jekyll-gitbook怎样添加post页面
 2025.05.07
 1、https://github.com/sighingnow/jekyll-gitbook
 https://jekyllrb.com/
