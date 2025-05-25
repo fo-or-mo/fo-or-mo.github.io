@@ -1,7 +1,7 @@
 ---
 title: PyWebView
 author: Zhang
-date: 2025-05-26
+date: 2025-05-25
 category: python
 layout: post
 mermaid: true
