@@ -87,6 +87,7 @@ Uvicorn： 一个基于 ASGI (WSGI 的继任者，支持异步) 的服务器，�
 使用 Spring Boot 的全栈开发者	Django	提供同样“开箱即用”的全栈体验，强大的 ORM 和 Admin 会让你有家的感觉。
 追求高性能、现代 API 开发	FastAPI + Uvicorn	学习当前最流行的技术，用于构建高效的 RESTful API，并自带 API 文档。
 寻找 Tomcat 的替代品	Gunicorn (用于同步框架如 Flask/Django) 或 Uvicorn (用于异步框架如 FastAPI)	它们是 Python 世界里部署生产环境应用的“标准”服务器。
+
 简单来说：
 Tomcat 之于 Servlet，正如 Gunicorn 之于 Flask。
 JSP 之于 Servlet，正如 Jinja2 之于 Flask 视图函数。
