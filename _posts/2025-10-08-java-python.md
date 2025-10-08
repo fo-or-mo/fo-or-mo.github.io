@@ -34,8 +34,7 @@ Gunicorn： 一个纯 Python 写的 WSGI 服务器，相当于 Tomcat 的角色�
 代码对比：
 
 Java (Servlet)
-
-java
+```java
 // 一个简单的 Servlet
 @WebServlet("/hello")
 public class HelloServlet extends HttpServlet {
@@ -45,9 +44,9 @@ public class HelloServlet extends HttpServlet {
         request.getRequestDispatcher("/WEB-INF/hello.jsp").forward(request, response);
     }
 }
+```
 Python (Flask)
-
-python
+```python
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
@@ -57,6 +56,7 @@ app = Flask(__name__)
 def hello():
     name = request.args.get('name') # 等同于 request.getParameter
     return render_template('hello.html', username=name) # 等同于 forward 到 JSP
+```
 类比 2：全栈级框架 (类似 Spring Boot)
 这个组合提供了一站式解决方案，包含了 ORM、管理后台、路由、模板等所有东西，开箱即用。
 
